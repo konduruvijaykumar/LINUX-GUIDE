@@ -1,5 +1,5 @@
 # LINUX-GUIDE
-Most of the people are trying to learn Linux but they fail due to no direction to follow. Here is an directions to follow and learn Linux.
+Most of the people are trying to learn Linux but they fail due to no direction to follow. Here is a direction to follow and learn Linux.
 
 ## Basics ##
 
